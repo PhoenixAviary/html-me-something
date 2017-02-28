@@ -1,0 +1,24 @@
+html, body {
+  padding: 5px;
+  margin: 5px;
+}
+body, main {
+  color: #800f88;
+  background: #fff;
+  font-family: 'Libre Baskerville', sans-serif;
+  font-size: 20px;
+}
+
+article {
+  color: #88800f;
+}
+
+
+p {
+  text-decoration: 1px;
+  color: #0f8880;
+}
+
+footer {
+  color: #800f88;
+}
